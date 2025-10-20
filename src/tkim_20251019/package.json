@@ -1,0 +1,22 @@
+{
+  "name": "tkim_20251019",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@dcloudio/uni-app": "^2.0.2-4070620250821001",
+    "@dcloudio/uni-ui": "^1.5.11",
+    "@xkit-yx/im-store-v2": "^0.8.5",
+    "@xkit-yx/utils": "^0.7.2",
+    "dayjs": "^1.11.7",
+    "mobx": "^6.6.1",
+    "nim-web-sdk-ng": "^10.9.40",
+    "pinyin": "^3.1.0"
+  }
+}

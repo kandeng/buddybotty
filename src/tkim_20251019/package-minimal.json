@@ -1,0 +1,12 @@
+{
+  "name": "tkim_20251019",
+  "version": "1.0.0",
+  "description": "A minimal test project",
+  "main": "main.js",
+  "scripts": {
+    "build": "echo \"Build successful\""
+  },
+  "dependencies": {
+    "nim-web-sdk-ng": "^10.9.40"
+  }
+}
